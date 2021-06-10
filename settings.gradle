@@ -1,2 +1,2 @@
+rootProject.name='messenger'
 include ':app'
-rootProject.name = "Messenger"
